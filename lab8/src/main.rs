@@ -1,5 +1,5 @@
 //1
-use std::mem;
+// use std::mem;
 
 // fn fac(n: u32) -> u32 {
 //     println!("Calculating Factorial({})", n);
@@ -37,7 +37,7 @@ use std::mem;
 
 
 // 3
-
+use std::mem;
 #[derive(Debug)]
 
 struct Point {
